@@ -11,9 +11,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-# series-sedation
+# series-dreamlike
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-[Hush](https://art.djnavarro.net/gallery/sedation/) is an art repository by Danielle Navarro. The images in this repository are released under a [CC-BY-4.0](./LICENSE.md).
+[Dreamlike](https://art.djnavarro.net/gallery/dreamlike/) is an art repository by Danielle Navarro. The images in this repository are released under a [CC-BY-4.0](./LICENSE.md).
